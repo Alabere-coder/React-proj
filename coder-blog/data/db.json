@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "My webpage",
+      "body": "Internet is a global communication system that links together thousands of individual networks.  Thus internet helps in transfer , video & audio conference, etc. It has become mandatory for day-to-day activities: bills payment, online shopping and surfing, tutoring, working, s, etc.",
+      "author": "alabere",
+      "id": 1
+    },
+    {
+      "title": "Introductory part",
+      "body": "World Wide Web or simple is the name given to all the resources of internet. The special software or application program with which you can access web is called It allows exchange of information between two or more computers on a network..",
+      "author": "coder",
+      "id": 2
+    }
+  ]
+}
